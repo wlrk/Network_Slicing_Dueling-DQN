@@ -1,0 +1,41 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+*.log
+
+# OS/editor
+.DS_Store
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Runs & outputs
+runs/
+**/output/
+**/eval_full/
+**/monitor.csv
+**/summary_full.csv
+**/slots_full.csv
+
+# Models & large artifacts
+models/
+*.h5
+*.keras
+*.zip
+
+# Data & traces generated from detection
+hdf5_predictions.csv
+trace_from_detector_real/
+trace_from_detector/
+*.hdf5
+*.npz
+*.npy
+*.csv
+!docs/examples/*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
