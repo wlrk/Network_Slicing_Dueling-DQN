@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# DQN/Dueling DQN for 5G Network Slicing
 
 This repository provides a reinforcement learning–based simulator for dynamic bandwidth allocation between **eMBB** (enhanced Mobile Broadband) and **URLLC** (Ultra-Reliable Low-Latency Communications) slices.  
@@ -104,3 +105,6 @@ Trace / Synth traffic modes supported
 Automatic logging (CSV, TensorBoard, console)
 
 Plot scripts for reproducible visualization
+=======
+# Network_Slicing_Dueling-DQN
+>>>>>>> 983d7ed40f0c9daee2b0bcec8c079bfec21983c2
